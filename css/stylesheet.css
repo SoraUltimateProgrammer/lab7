@@ -1,0 +1,3 @@
+@import url("desktop.css") screen and (min-device-width: 1001px);
+@import url("tablet.css") screen and (min-device-width: 500px) and (max-device-width: 1000px);
+@import url("mobile.css") screen and (max-device-width: 500px);
